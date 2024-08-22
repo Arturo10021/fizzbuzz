@@ -9,4 +9,4 @@ function generarFizzbuzz(numero) {
         return numero;
         }
     }
-  export default generarFizzbuzz;
+export default generarFizzbuzz;
